@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+	<br>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
 
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">    
@@ -20,7 +21,7 @@
 <div align=center>
 	<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyeon-Oh&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyeon-Oh&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=JaeHyeon-Oh&show_icons=true">
 
 
