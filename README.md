@@ -1,6 +1,6 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <div align=center>
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Make%20Value&fontSize=90" /> -->
+	![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 	
 </div>
 <div align=center>
