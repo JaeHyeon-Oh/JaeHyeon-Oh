@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Data%20Engineer&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2JaeHyeon-Oh)](https://hits.seeyoufarm.com)                    
+//python
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=python&logoColor=white">
+//MySQL
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+//github
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+//aws
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">                
 
 <!--
 **JaeHyeon-Oh/JaeHyeon-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
