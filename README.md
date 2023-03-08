@@ -11,6 +11,9 @@
 
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">    
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyeon-Oh&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=JaeHyeon-Oh&show_icons=true">
 <!--
 **JaeHyeon-Oh/JaeHyeon-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
