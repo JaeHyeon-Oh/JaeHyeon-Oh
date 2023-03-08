@@ -7,8 +7,12 @@
 
 //github
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-//aws
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">                
+//aws-s3
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> 
+//aws-RDS
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">    
+//AWS EC2
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">    
 
 <!--
 **JaeHyeon-Oh/JaeHyeon-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
