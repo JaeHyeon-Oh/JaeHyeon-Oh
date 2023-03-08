@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JaeHyeon%20Github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20Make%20Value&fontSize=90" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -33,7 +33,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyeon-Oh&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=JaeHyeon-Oh&show_icons=true">
 
-![JaeHyeon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=JaeHyeon-Oh)
+
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
