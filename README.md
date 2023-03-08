@@ -24,8 +24,20 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
-	
-	
+</div>
+<br>
+
+<div align=center>
+	<p>🎨 Resume 🎨</p>
+</div>
+<div align=center>
+	<a href="https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%98%A4-bb0492236/">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="https://elegant-factory-846.notion.site/Daniel-96d2596e12f04a2a995004f63fd07ba9">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
 </div>
 <div align=center>
 	<br>
